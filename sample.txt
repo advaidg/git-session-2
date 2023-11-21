@@ -1,7 +1,7 @@
 This is my sample doc : 
     This is used to demo the commit 
 
-
+feature 2 this is my change 
 Commit 1 
 
 Commit 2 
