@@ -1,9 +1,42 @@
-This is my I am making changes related to feature 1 sample doc : 
-    This iI am making changes related to feature 1 s used to demo the commit 
-DevelI am making changes related to feature 1 oper 3 made changes 
+This is my sample doc : 
+ Commit 1 
+
+Commit 2 
+New Lines Added :
+This is my sample doc : 
+    This is used to demo the commit 
+Developer 3 made changes 
 Commited release related code 
-I am making changes related to feature 1 
-CommiI amI am making changes related to feature 1  making changes related to feature 1 t 1 
-I am making changes related to feature 1 
-CommiI aI am making changes related to feature 1 m making changes related to feature 1 
+
+Commit 1 
+
+Commit 2    This is used to demo the commit 
+Developer 3 made changes 
+Commited release related code 
+Commit 1 
+
+Commit 2 
+New Lines Added :
+This is my sample doc : 
+    This is used to demo the commit 
+Developer 3 made changes 
+Commited release related code 
+
+Commit 1 
+Commit 1 
+
+Commit 2 
+New Lines Added :
+This is my sample doc : 
+    This is used to demo the commit 
+Developer 3 made changes 
+Commited release related code 
+
+Commit 1 
+
+Commit 2 
+Commit 2 
+Commit 1 
+
+Commit 2 
 I am making changes related to feature 1 
