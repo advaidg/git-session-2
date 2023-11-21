@@ -6,3 +6,12 @@ Commited release related code
 Commit 1 
 
 Commit 2 
+New Lines Added :
+This is my sample doc : 
+    This is used to demo the commit 
+Developer 3 made changes 
+Commited release related code 
+
+Commit 1 
+
+Commit 2 
