@@ -5,3 +5,5 @@ This is my sample doc :
 Commit 1 
 
 Commit 2 
+
+I am making changes related to feature 1 
